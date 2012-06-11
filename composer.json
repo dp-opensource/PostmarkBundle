@@ -4,6 +4,7 @@
         "miguel250/postmark-php": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Postmarkapp\\PostmarkBundle": "" }
-    }
+        "psr-0": { "Postmarkapp": "" }
+    },
+    "target-dir": "Postmarkapp"
 }
