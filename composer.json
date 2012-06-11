@@ -5,6 +5,5 @@
     },
     "autoload": {
         "psr-0": { "Postmarkapp\\PostmarkBundle": "" }
-    },
-    "target-dir": "digitalpioneers/PostmarkBundle"
+    }
 }
