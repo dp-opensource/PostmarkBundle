@@ -1,10 +1,9 @@
 {
-    "name": "digitalpioneers/PostmarkBundle",
+    "name": "Postmarkapp/PostmarkBundle",
     "require": {
         "miguel250/postmark-php": "dev-master"
     },
     "autoload": {
         "psr-0": { "Postmarkapp": "" }
-    },
-    "target-dir": "Postmarkapp"
+    }
 }
